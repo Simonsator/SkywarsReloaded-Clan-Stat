@@ -1,0 +1,7 @@
+name: Skywars-Reloaded-Clan-Stats
+version: ${project.version}
+author: Simonsator
+depends: [Clans]
+depend: [Clans]
+main: de.simonsator.partyandfriends.clan.skywarsreloaded.SWRStatMain
+description: Provides stats for clans for Skywars Reloaded
